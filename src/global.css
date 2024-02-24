@@ -1,0 +1,31 @@
+/* Configuração Global do CSS */
+
+:root {
+    --azul-escuro: #1E6F9F;
+    --azul-claro: #4EA8DE;
+    --roxo-escuro: #5E60CE;
+    --roxo-claro: #8284FA;
+
+    --cinza-100: #F2F2F2;
+    --cinza-200: #D9D9D9;
+    --cinza-300: #808080;
+    --cinza-400: #333333;
+    --cinza-500: #262626;
+    --cinza-600: #1A1A1A;
+    --cinza-700: #0D0D0D;
+
+    --vermelho: #E25858;
+
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-size: 1rem;
+}
+
+
+/* Reset de algumas configurações */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
