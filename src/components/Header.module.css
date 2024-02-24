@@ -1,4 +1,12 @@
 .header {
-    background: #333;
+    background: var(--cinza-700);
+    height: 200px;
     color: white;
+    display: flex;
+    place-items: center;
 }
+
+.imagem {
+    margin: 0 auto;
+}
+

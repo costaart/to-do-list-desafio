@@ -1,0 +1,13 @@
+.input {
+    background: var(--cinza-500);
+    color: var(--cinza-300);
+    padding: 2px 10px;
+    border: none;
+    border-radius: 5px;
+    width: 636px;
+}
+
+.input:focus {
+    outline: 1px var(--roxo-escuro) solid;
+}
+

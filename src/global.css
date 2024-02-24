@@ -16,7 +16,6 @@
 
     --vermelho: #E25858;
 
-    font-family: "Inter", sans-serif;
     font-weight: 400;
     font-size: 1rem;
 }
@@ -27,5 +26,6 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    font-family: "Inter", sans-serif;
 }
 
